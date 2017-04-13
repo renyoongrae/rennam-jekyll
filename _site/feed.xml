@@ -1,5 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-06T16:30:13-07:00</updated><id>http://localhost:4000/</id><title type="html">Ren Nam</title><subtitle>me jotting random gibberish and doing #소통
-</subtitle><entry><title type="html">First Post</title><link href="http://localhost:4000/jekyll/update/2017/04/06/First-Post.html" rel="alternate" type="text/html" title="First Post" /><published>2017-04-06T13:59:53-07:00</published><updated>2017-04-06T13:59:53-07:00</updated><id>http://localhost:4000/jekyll/update/2017/04/06/First-Post</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/04/06/First-Post.html">&lt;p&gt;First post ever.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-12T22:34:55-07:00</updated><id>http://localhost:4000/</id><title type="html">Ren Nam</title><subtitle>me jotting random gibberish and doing #소통
+</subtitle><entry><title type="html">Jibb 040817</title><link href="http://localhost:4000/jibb/2017/04/08/Jibb-040817.html" rel="alternate" type="text/html" title="Jibb 040817" /><published>2017-04-08T13:59:53-07:00</published><updated>2017-04-08T13:59:53-07:00</updated><id>http://localhost:4000/jibb/2017/04/08/Jibb-040817</id><content type="html" xml:base="http://localhost:4000/jibb/2017/04/08/Jibb-040817.html">&lt;p&gt;Been Relaxed too mcuh for two days by binge watching and binge eating.&lt;/p&gt;
+
+&lt;h3&gt; Lifestyle &lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;1 cup of medium roasted Guatemala Antigua by &lt;a href=&quot;https://www.instagram.com/explore/tags/%EC%9A%B0%EC%A2%85%ED%98%B8%EC%BB%A4%ED%94%BC%EB%B3%B6%EB%8A%94%EC%A7%91/&quot;&gt; Woojongho(우종호 커피) &lt;/a&gt; french press + 1 tb coconut oil -&amp;gt; blend -&amp;gt; heavenly, flavorful, fatty coffee for morning&lt;/li&gt;
+  &lt;li&gt;Watching Masters live by &lt;a href=&quot;https://tv.youtube.com&quot;&gt;Youtube TV &lt;/a&gt; ($35/month subscription with 1 month free and free chromecast given)&lt;/li&gt;
+  &lt;li&gt;Ordered &lt;a href=&quot;https://www.getpi.co/&quot;&gt; Pythagoras pizza &lt;/a&gt;, a new pizza startup in Mission that delivers to Mission and Mission Bay households. First pizza is free by promotion and you can give free pizza to your friend. My first promo code was given by my Roommate. Only available by iOS and Pepperoni Pizza is not that good. I would recommend Everything Pizza, which comes with Salsa for breadsticks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt; Stock &lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;2 Pharm&lt;/li&gt;
+  &lt;li&gt;3 Fuel Cell&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Will write more later about stocks.&lt;/p&gt;</content><author><name></name></author><summary type="html">Been Relaxed too mcuh for two days by binge watching and binge eating.</summary></entry><entry><title type="html">First Post</title><link href="http://localhost:4000/jibb/2017/04/06/First-Post.html" rel="alternate" type="text/html" title="First Post" /><published>2017-04-06T13:59:53-07:00</published><updated>2017-04-06T13:59:53-07:00</updated><id>http://localhost:4000/jibb/2017/04/06/First-Post</id><content type="html" xml:base="http://localhost:4000/jibb/2017/04/06/First-Post.html">&lt;p&gt;First post ever.
 Spending my day checking stocks, learning jekyll, and configuring Terminal setting all day.&lt;/p&gt;
 
 &lt;p&gt;I am excited to share my current interest with the world.&lt;/p&gt;</content><author><name></name></author><summary type="html">First post ever. Spending my day checking stocks, learning jekyll, and configuring Terminal setting all day.</summary></entry></feed>
